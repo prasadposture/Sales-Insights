@@ -225,7 +225,7 @@ row_number() over(partition by store_nbr order by date ) as rowno
 from sales s
 where not s.sales=0
 order by date)
-select age(last_date,date) as duration, store_nbr
+select store_nbr, age(last_date,date) as duration
 from rowsr
 where rowno=1
 order by duration;
