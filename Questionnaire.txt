@@ -1,0 +1,33 @@
+Beginner Level:
+Q. What are the total sales of the store?
+Q. What are the total number of product sold?
+Q. What are the total Number of stores?
+Q. Number of cities with stores.
+Q. Number of states with stores.
+Q. Number of unique product families.
+Q. Give different store types and thier count.
+Q. Calculate total sales by each store.
+Q. Give total sales and number products solds for each year
+Q. Find out total number of holidays/events.
+Q. Give average price of oil over the years.
+Q. Which 10 products were on promotion for maximum number of days?
+Q. Give total number of transactions from each store.
+Q. Calculate the total sales and number of products sold for each product family.
+
+Intermediate level
+Q. Which state has the highest total sales and products sold?
+Q. Which city has the highest total sales and products sold?
+Q. Which store type has the highest total sales and products sold?
+Q. Which store has the highest total sales and products sold?
+Q. Find out sales on each holiday.
+Q. What are the total sales done by each store type?
+Q. Which product family is the costliest?
+Q. Combine total sales, number of products sold, average oil prices, total transactions in a single table over dates.
+
+Advance level
+Q. Give list of top performing stores from each state.
+Q. Which product family is popular from each store?
+Q. Which product family is popular from each state?
+Q. Which store has their total sales below average and which stores have their sales above average?
+Q. Which state has their total sales below average and which state have their sales above average?
+Q. Find out how long each shop has been opened for.
