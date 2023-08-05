@@ -20,3 +20,4 @@ The goal of this project was to analyze the sales data of various stores and ide
 5. Store 44 has made the highest total sales of 62,087,563 $ and so as its corresponding city and state which are Quito and Pichincha with total sales of 557M and 585M respectively.
 6. The timeline shows that the maximum total sales were recorded mainly by the end of the year and a sharp fall can be seen on the first day of the new year.
 7. There is a highly negative correlation between products sold and oil prices, this shows more products were sold when the oil prices were lower.
+8. Median of total sales seems to be increasing over the years.
